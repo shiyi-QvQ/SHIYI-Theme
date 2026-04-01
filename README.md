@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  基于 <a href="https://github.com/matsuzaka-yuki/Mizuki">Mizuki</a> 开发的 Typecho 主题 | 简洁优雅 | 响应式设计
+  基于typecho开发的主题，风格移植于 <a href="https://github.com/matsuzaka-yuki/Mizuki">Mizuki</a> | 简洁优雅 | 响应式设计
 </p>
 
 <p align="center">
