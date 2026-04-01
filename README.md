@@ -115,9 +115,6 @@ SHIYI-Theme/
 ### Q3: 如何添加自定义 CSS/JS？
 > 可在后台「高级设置」中添加自定义代码
 
-### Q4: 兼容哪些插件？
-> 已知兼容：CommentToMail、Sitemap、Links 等主流插件
-
 ---
 
 ## 🔗 相关链接
