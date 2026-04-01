@@ -11,9 +11,9 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/stars/YOUR_GITHUB_USERNAME/SHIYI-Theme?style=flat-square" alt="Stars">
-  <img src="https://img.shields.io/github/forks/YOUR_GITHUB_USERNAME/SHIYI-Theme?style=flat-square" alt="Forks">
-  <img src="https://img.shields.io/github/issues/YOUR_GITHUB_USERNAME/SHIYI-Theme?style=flat-square" alt="Issues">
+  <img src="https://img.shields.io/github/stars/shiyi-QvQ/SHIYI-Theme?style=flat-square" alt="Stars">
+  <img src="https://img.shields.io/github/forks/SHIYI-QVQ/SHIYI-Theme?style=flat-square" alt="Forks">
+  <img src="https://img.shields.io/github/issues/SHIYI-QVQ/SHIYI-Theme?style=flat-square" alt="Issues">
 </p>
 
 ---
