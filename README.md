@@ -145,7 +145,7 @@ SHIYI-Theme/
 ---
 
 <p align="center">
-  Made with ❤️ by <a href="https://github.com/shiyi-QVQ">YOUR_NAME</a>
+  Made with ❤️ by <a href="https://github.com/shiyi-QVQ">SHIYI-theme</a>
   <br>
   <sub>SHIYI-Theme v1.0.0 · 基于 Mizuki</sub>
 </p>
